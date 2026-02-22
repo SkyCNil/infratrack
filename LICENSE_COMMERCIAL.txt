@@ -1,0 +1,10 @@
+Commercial License Placeholder
+
+Copyright (c) 2026
+All rights reserved.
+
+This software is licensed for use only under a valid commercial agreement.
+Redistribution, reverse engineering, and unauthorized copying are prohibited
+unless explicitly permitted in writing by the copyright owner.
+
+Replace this file with your final legal license terms before distribution.
